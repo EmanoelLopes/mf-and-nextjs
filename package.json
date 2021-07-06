@@ -1,0 +1,13 @@
+{
+  "name": "mf-and-nextjs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Next.js and a Webpack 5 feature to build micro-frontends, Module Federation",
+  "scripts": {
+    "start": "lerna run --parallel start",
+    "build": "lerna run build"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
